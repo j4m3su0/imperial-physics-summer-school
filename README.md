@@ -1,2 +1,2 @@
 # imperial-physics-summer-school
-A collection of resources from my time at the [Imperial Physics Summer School](https://www.imperial.ac.uk/be-inspired/global-summer-school/residential-programme/physical-sciences/).
+A collection of my work and resources from the Imperial Physics Summer School 2024.
